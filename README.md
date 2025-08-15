@@ -23,8 +23,6 @@ A simple chat application built with React Native and Expo, leveraging the `llam
 2. Install dependencies:
 
    ```bash
-   git clone https://github.com/joelcb23/LLM-implemented.git
-   cd LLM-implemented
    npm install
    # or
    yarn install
