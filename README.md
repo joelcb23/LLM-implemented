@@ -50,3 +50,9 @@ A simple chat application built with React Native and Expo, leveraging the `llam
 
 > ⚠️ Important Note for Android:
 > **`llama.rn`** currently supports only arm64-v8a and x86_64 platforms. Attempting to run on other architectures (e.g., 32-bit ARM) will crash the app. Make sure your device supports 64-bit.
+
+## Demo Video
+You can see the application running in the emulator here:  
+[Watch demo on Google Drive](https://drive.google.com/file/d/1LW1upH7RStfvqYjRoSzunHSiG6qjvsHj/view?usp=drive_link)
+
+
