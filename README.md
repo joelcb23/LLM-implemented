@@ -4,8 +4,6 @@
 
 A simple chat application built with React Native and Expo, leveraging the `llama.rn` library and the [SmolLM2-1.7B-Instruct-Q4_K_M](https://huggingface.co/bartowski/SmolLM2-1.7B-Instruct-GGUF/resolve/main/SmolLM2-1.7B-Instruct-Q4_K_M.gguf) model.
 
-es un chat simple desarrollado con react native and Expo. empleando librerias como `llama.rn`y el modelo [SmolLM2-1.7B-Instruct-Q4_K_M](https://huggingface.co/bartowski/SmolLM2-1.7B-Instruct-GGUF/resolve/main/SmolLM2-1.7B-Instruct-Q4_K_M.gguf)
-
 ## Features
 
 - Real-time chat with an AI assistant.
